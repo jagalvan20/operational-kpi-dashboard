@@ -1,24 +1,20 @@
-# Operational KPI Dashboard
+# Operational KPI Dashboard – Supply Chain Performance
 
 ## Overview
-This project demonstrates a foundational Power BI dashboard designed to analyze supply chain performance metrics and support operational decision-making.
+This project demonstrates a simple operational dashboard built to track supply chain performance metrics and support decision-making.
 
-## Objectives
-- Monitor total spend across vendors
-- Evaluate on-time delivery performance
-- Analyze average delivery timelines
-- Identify category-level cost distribution
-
-## Metrics Created
+## KPIs Tracked
 - Total Spend
 - On-Time Delivery Rate
 - Average Delivery Days
 
-## Tools Used
-- Power BI (Dashboard development, DAX measures)
-- Excel (Sample dataset creation)
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
 
-## Key Insights
-- Identified vendor-level cost distribution.
-- Evaluated on-time delivery performance trends.
-- Highlighted potential delivery delays impacting operational efficiency.
+## Tools Used
+- Google Sheets (Data and dashboard build)
+- Excel export (.xlsx)
+- GitHub (Project documentation)
+
+## Notes
+All data is simulated for portfolio purposes (no real patient or company data).
